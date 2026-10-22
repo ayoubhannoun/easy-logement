@@ -1,5 +1,3 @@
-# easy-logement
-« Easy Logement : le logement étudiant, en toute confiance »
 # Easy Logement
 
 *Le logement étudiant, en toute confiance*
@@ -29,12 +27,12 @@ Easy Logement est un site web qui permet aux étudiants de trouver un logement f
 ## Documents
 
 - Document de spécifications et de conception : `Easy_Logement_specifications_v1.2.pdf`
-- Planning prévisionnel (Gantt) : à ajouter
+- Planning prévisionnel (Gantt) : `gantt_easy_logement_v2 (2) (1).pdf`
 - Suivi des tâches : à ajouter
 
 ## Fichiers du dépôt
 
-- `prompts.txt` : historique des prompts utilisés avec des outils d'IA.
+- `prompts.txt` : historique des prompts adressés aux outils d'IA.
 
 ## Contexte
 
